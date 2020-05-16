@@ -1,4 +1,4 @@
-# Gatsby starter with Tailwind, Emotion
+# Gatsby starter with Tailwind, Emotion and Apollo
 - Tailwind
 - Emotion
 - Apollo
