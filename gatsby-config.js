@@ -7,8 +7,8 @@ const path = require("path")
 module.exports = {
   siteMetadata: {
     siteUrl: `${process.env.SITE_URL}`,
-    title: `Gatsby Starter with Tailwind, Emotion`,
-    description: `Gatsby Starter with Tailwind, Emotion`,
+    title: `Gatsby Starter with Tailwind, Emotion and Apollo`,
+    description: `Gatsby Starter with Tailwind, Emotion and Apollo`,
     author: `@warlock-mw`,
   },
   plugins: [
